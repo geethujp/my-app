@@ -1,6 +1,6 @@
 {
-  "name": "Preact PWA",
-  "short_name": "Preact PWA",
+  "name": "UNDP Transparency Portal",
+  "short_name": "UNDP TR",
   "start_url": "./",
   "display": "standalone",
   "orientation": "portrait",
